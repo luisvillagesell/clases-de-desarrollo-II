@@ -8,23 +8,26 @@ body {
 .container {
     max-width: 800px;
     margin: 20px auto;
-    padding: 20px;
+    padding: 5%;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    align-items: center;
 }
 
 .box {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     background-color: #3498db;
     color: #fff;
     text-align: center;
     line-height: 100px;
     font-size: 24px;
-    margin: 10px;
+    margin: 15px;
     float: left;
+    padding: 3%;
 }
 
 .clear {
-    clear: both;}
+    clear: both;
+}
